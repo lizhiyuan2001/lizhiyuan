@@ -1,6 +1,6 @@
 ## 李志远
 ***
-* Floyd 判最小环
+* Floyd 判最小环 
 * int Floyd_MinCircle()
 *{
 *    int Mincircle = Mod;
