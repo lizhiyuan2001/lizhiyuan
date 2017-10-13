@@ -1,6 +1,6 @@
 ## 李志远  George2001
 ***
-* Floyd 判最小环 
+* Floyd 判最小环
 * int Floyd_MinCircle()
 *{
 *    int Mincircle = Mod;
@@ -74,3 +74,19 @@
 *	cout<<n-max;				//max求的是选中在合唱队里的人，题目求出列人数 所以用n减去剩余人数 即为出列人数 
 *}
 ***
+*infinite flight
+*account 
+*facebook
+*1522561925@qq.com
+*google
+*lzhiyuan2001@gmail.com
+*yahoo
+*Roit games
+*US
+*lizhiyuan2001
+*EU
+*lizhiyuan2001
+*apple
+*1522561925@qq.com
+*APPLE US
+*dregt44@icloud.com
